@@ -25,7 +25,7 @@ I have built it using Laravel 5.2 using the Homestead vagrant box
     192.168.10.10   staffrota.app
     ```
               
-- Setup the environment file copying the **.env** to **.env.example**. Edit the database settings.
+- Setup the environment file copying the **.env.example** to **.env**. Adjust this file settings to your environment settings.
 - Initialize the box doing *vagrant up (with provision)*.
 - Connect via SSH to the virtual machine and go to the project root folder.
 

@@ -1,0 +1,10 @@
+/* LAYOUT */
+body {
+    padding-top: 50px;
+}
+
+/* ROTA TABLE */
+table.rota tfoot td {
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+}
